@@ -1,5 +1,5 @@
 
-# Assessment of accuracy of AI-driven skin cancer classification in dark-skinned patents 
+# Assessment of accuracy of AI-driven skin cancer classification in dark-skinned patients 
 
 This repo containts the plan of action for our research project aiming to identify bias in machine learning algorithms for skin cancer detection
 
