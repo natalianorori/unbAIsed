@@ -26,3 +26,5 @@ This project is still in its early stages. We are currently studying existing te
 [Athina Tzovara](https://twitter.com/aath0) - University of Bern, Switzerland 
 
 [Natalia Norori](https://twitter.com/natalianorori) - Universidad Latina de Costa Rica, Costa Rica 
+
+Florence Aellen - University of Bern, Switzerland
