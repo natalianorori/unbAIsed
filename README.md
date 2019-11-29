@@ -27,4 +27,4 @@ This project is still in its early stages. We are currently studying existing te
 
 [Natalia Norori](https://twitter.com/natalianorori) - Universidad Latina de Costa Rica, Costa Rica 
 
-Florence Aellen - University of Bern, Switzerland
+[Florence Aellen](https://www.inf.unibe.ch/about_us/people/ccn/aellen_florence/index_eng.html) - University of Bern, Switzerland
