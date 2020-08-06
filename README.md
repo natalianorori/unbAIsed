@@ -40,10 +40,20 @@ Thanks to the support of the Mozilla Foundation, following materials will be pro
 This project is still in its early stages. We are currently studying existing technologies, collecting and analyzing data to develop the algorithm we will be using. If you are interested in contributing, get in touch with us. 
 
  
-## Participants 
+## Our team 
 
-[Athina Tzovara](https://twitter.com/aath0) - University of Bern, Switzerland 
+### [Athina Tzovara](https://twitter.com/aath0) - University of Bern, Switzerland 
 
-[Natalia Norori](https://twitter.com/natalianorori) - University of Bristol, United Kingdom
+Athina is an assistant professor in the Institute for Computer Science of the University of Bern, Switzerland. Her research focuses at the intersection of biomedical data & Artificial Intelligence. In her work, she is constantly advocating for open and inclusive science practices. Her interest in biomedical data and AI has led her to join open events, where she recently co-hosted sessions on societal impacts of AI and sharing of personal data. Moreover, she has been working on the lack of diversity in biomedical data sharing initiatives (https://bit.ly/30dmqmp). 
 
-[Florence Aellen](https://www.inf.unibe.ch/about_us/people/ccn/aellen_florence/index_eng.html) - University of Bern, Switzerland
+
+### [Natalia Norori](https://twitter.com/natalianorori) - University of Bristol, United Kingdom
+Natalia is a healthcare researcher with open science and public health expertise exploring the social determinants of health through Open Data. A year ago, she started Health Data Sharing is Caring, a  project that aims to raise awareness about the lack of representation of minorities in healthcare datasets. The project initially started as an advocacy campaign,  but she has been working to expand it to conduct research and build tools that help uncover racial inequality in existing medical technologies, prevent misdiagnosis, and help reduce racial and social disparities in healthcare. 
+
+
+### [Florence Aellen](https://www.inf.unibe.ch/about_us/people/ccn/aellen_florence/index_eng.html) - University of Bern, Switzerland
+Florence Aellen is a PhD student at the University of Bern working on CNNs for biomedical data (https://bit.ly/2OwAOAR). She will advise the AI implementation of this project.
+
+This is a unique moment to build consensus around the urgent need for trustworthy biomedical datasets and raise awareness about racial injustice.  We are confident that our combined backgrounds will lead to tangible results that will help cultivate a greater sense of data responsibility and accelerate the creation of inclusive biomedical practices. 
+
+
