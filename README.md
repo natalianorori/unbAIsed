@@ -43,6 +43,6 @@ This project is still in its early stages. We are currently studying existing te
 
 [Athina Tzovara](https://twitter.com/aath0) - University of Bern, Switzerland 
 
-[Natalia Norori](https://twitter.com/natalianorori) - University of Bristol 
+[Natalia Norori](https://twitter.com/natalianorori) - University of Bristol, United Kingdom
 
 [Florence Aellen](https://www.inf.unibe.ch/about_us/people/ccn/aellen_florence/index_eng.html) - University of Bern, Switzerland
