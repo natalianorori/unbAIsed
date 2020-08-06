@@ -3,7 +3,7 @@
 
 ## Project Objectives 
 
-1. To investigate how open science can mitigate bias in biomedical datasets; raising awareness about racial inequalities in biomedical sciences
+1. To investigate how open science can mitigate bias in biomedical datasets; raising awareness about racial inequalities in biomedical sciences.
 
 2. to raise awareness about (a) racial inequalities in the biomedical and AI fields; (b) the negative consequences of the lack of diversity in biomedical data (c) ways to render biomedical data sharing more equitable through the open movement.
 
@@ -24,15 +24,15 @@ The idea of this research project started during MozFest 2019. We have since bee
 
 ## Project Deliverables 
 
-1. A neural network trained to classify skin lesion data. This network will be adapted from existing open online tool (e.g. ResNet50) and work that we are doing at the University of Bern for classifying other types of biomedical data (i.e. electroencephalography)
-2. An algorithm that can automatically extract skin color from skin lesion data. So far we have been manually computing that from a corner of the image of skin data samples, but we need to automate this procedure and include some quality checks, as the data might not always be homogeneous
-3. Results of the network’s training and testing performance as a function of the diversity in the training and test samples
-4. A set of openly available Jupyter Notebooks that will allow anyone to replicate the analyses of steps 1-3 and build upon them
-5. Depending on our findings for (3), a set of guidelines for how to mitigate bias or how to acknowledge and deal with bias when it is not possible to mitigate it (e.g. when the training samples are not diverse enough)
-6. A research paper describing our findings
+1. A neural network trained to classify skin lesion data. This network will be adapted from existing open online tool (e.g. ResNet50) and work that we are doing at the University of Bern for classifying other types of biomedical data (i.e. electroencephalography).
+2. An algorithm that can automatically extract skin color from skin lesion data. So far we have been manually computing that from a corner of the image of skin data samples, but we need to automate this procedure and include some quality checks, as the data might not always be homogeneous.
+3. Results of the network’s training and testing performance as a function of the diversity in the training and test samples.
+4. A set of openly available Jupyter Notebooks that will allow anyone to replicate the analyses of steps 1-3 and build upon them.
+5. Depending on our findings for (3), a set of guidelines for how to mitigate bias or how to acknowledge and deal with bias when it is not possible to mitigate it (e.g. when the training samples are not diverse enough).
+6. A research paper describing our findings.
 7. A white paper summarizing our existing ideas and recommendations. The short guide will briefly describe existing user cases help  understand the consequences of systemic racism in Global Health and sensitise them on racial bias. 
-8. An online workshop communicating our findings to the open community
-9. The material of the online workshop, so that others can re-use and add to it, and run their own workshops
+8. An online workshop communicating our findings to the open community.
+9. The material of the online workshop, so that others can re-use and add to it, and run their own workshops.
   
 
 ## How to contribute 
