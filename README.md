@@ -35,11 +35,6 @@ Thanks to the support of the Mozilla Foundation, following materials will be pro
 8. An online workshop communicating our findings to the open community.
 9. The material of the online workshop, so that others can re-use and add to it, and run their own workshops.
   
-
-## How to contribute 
-This project is still in its early stages. We are currently studying existing technologies, collecting and analyzing data to develop the algorithm we will be using. If you are interested in contributing, get in touch with us. 
-
- 
 ## Our team 
 
 ### [Athina Tzovara](https://twitter.com/aath0) - University of Bern, Switzerland 
@@ -56,4 +51,7 @@ Florence Aellen is a PhD student at the University of Bern working on CNNs for b
 
 This is a unique moment to build consensus around the urgent need for trustworthy biomedical datasets and raise awareness about racial injustice.  We are confident that our combined backgrounds will lead to tangible results that will help cultivate a greater sense of data responsibility and accelerate the creation of inclusive biomedical practices. 
 
+
+## How to contribute 
+This project is still in its early stages. We are currently studying existing technologies, collecting and analyzing data to develop the algorithm we will be using. If you are interested in contributing, get in touch with us. 
 
