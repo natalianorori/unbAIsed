@@ -41,7 +41,7 @@ Athina is an assistant professor in the Institute for Computer Science of the Un
 
 
 ### [Natalia Norori](https://twitter.com/natalianorori) - University of Bristol, United Kingdom
-Natalia is a healthcare researcher with open science and public health expertise exploring the social determinants of health through Open Data. A year ago, she started Health Data Sharing is Caring, a  project that aims to raise awareness about the lack of representation of minorities in healthcare datasets. The project initially started as an advocacy campaign,  but she has been working to expand it to conduct research and build tools that help uncover racial inequality in existing medical technologies, prevent misdiagnosis, and help reduce racial and social disparities in healthcare. 
+Natalia is an Msc in Epidemiology student with open science and public health research expertise exploring the social determinants of health through Open Data. A year ago, she started Health Data Sharing is Caring, a  project that aims to raise awareness about the lack of representation of minorities in healthcare datasets. The project initially started as an advocacy campaign,  but she has been working to expand it to conduct research and build tools that help uncover racial inequality in existing medical technologies, prevent misdiagnosis, and help reduce racial and social disparities in healthcare. 
 
 
 ### [Florence Aellen](https://www.inf.unibe.ch/about_us/people/ccn/aellen_florence/index_eng.html) - University of Bern, Switzerland
