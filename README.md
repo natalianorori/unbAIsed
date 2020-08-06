@@ -23,6 +23,7 @@ To our knowledge, there are no studies that have tested the accuracy of ai-drive
 The idea of this research project started during MozFest 2019. We have since been working on it, but we unfortunately lack the resources to finalize it. This funding would be ideal, as it will allow us to (a) hire a part-time research assistant to train CNNs and test their generalizability on new skin samples; (b) fund our collaborator Natalia Norori to work with us on issuing guidelines for how open practices can mitigate bias; (c) organize an online replicable workshop to communicate our findings to the wider community.
 
 ## Project Deliverables 
+Thanks to the support of the Mozilla Foundation, following materials will be produced as a result of our project:
 
 1. A neural network trained to classify skin lesion data. This network will be adapted from existing open online tool (e.g. ResNet50) and work that we are doing at the University of Bern for classifying other types of biomedical data (i.e. electroencephalography).
 2. An algorithm that can automatically extract skin color from skin lesion data. So far we have been manually computing that from a corner of the image of skin data samples, but we need to automate this procedure and include some quality checks, as the data might not always be homogeneous.
