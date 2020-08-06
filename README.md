@@ -21,6 +21,18 @@ In this project, we will use openly available biomedical data to explore how bia
 To our knowledge, there are no studies that have tested the accuracy of ai-driven skin lesion classification technologies in dark-skinned patients. To quantify the problem, we are working on training a deep learning algorithm with caucasian skin samples and testing how it performs on darker skin.  Our end goal is to expand the ethnic variability of the dataset and compare how it performs against algorithms trained with imbalanced data. 
 
 The idea of this research project started during MozFest 2019. We have since been working on it, but we unfortunately lack the resources to finalize it. This funding would be ideal, as it will allow us to (a) hire a part-time research assistant to train CNNs and test their generalizability on new skin samples; (b) fund our collaborator Natalia Norori to work with us on issuing guidelines for how open practices can mitigate bias; (c) organize an online replicable workshop to communicate our findings to the wider community.
+
+## Project Deliverables 
+
+1. A neural network trained to classify skin lesion data. This network will be adapted from existing open online tool (e.g. ResNet50) and work that we are doing at the University of Bern for classifying other types of biomedical data (i.e. electroencephalography)
+2. An algorithm that can automatically extract skin color from skin lesion data. So far we have been manually computing that from a corner of the image of skin data samples, but we need to automate this procedure and include some quality checks, as the data might not always be homogeneous
+3. Results of the network’s training and testing performance as a function of the diversity in the training and test samples
+4. A set of openly available Jupyter Notebooks that will allow anyone to replicate the analyses of steps 1-3 and build upon them
+5. Depending on our findings for (3), a set of guidelines for how to mitigate bias or how to acknowledge and deal with bias when it is not possible to mitigate it (e.g. when the training samples are not diverse enough)
+6. A research paper describing our findings
+7. A white paper summarizing our existing ideas and recommendations. The short guide will briefly describe existing user cases help  understand the consequences of systemic racism in Global Health and sensitise them on racial bias. 
+8. An online workshop communicating our findings to the open community
+9. The material of the online workshop, so that others can re-use and add to it, and run their own workshops
   
 
 ## How to contribute 
