@@ -20,8 +20,6 @@ In this project, we will use openly available biomedical data to explore how bia
 
 To our knowledge, there are no studies that have tested the accuracy of ai-driven skin lesion classification technologies in dark-skinned patients. To quantify the problem, we are working on training a deep learning algorithm with caucasian skin samples and testing how it performs on darker skin.  Our end goal is to expand the ethnic variability of the dataset and compare how it performs against algorithms trained with imbalanced data. 
 
-The idea of this research project started during MozFest 2019. We have since been working on it, but we unfortunately lack the resources to finalize it. This funding would be ideal, as it will allow us to (a) hire a part-time research assistant to train CNNs and test their generalizability on new skin samples; (b) fund our collaborator Natalia Norori to work with us on issuing guidelines for how open practices can mitigate bias; (c) organize an online replicable workshop to communicate our findings to the wider community.
-
 ## Project Deliverables 
 Thanks to the support of the Mozilla Foundation, following materials will be produced as a result of our project:
 
